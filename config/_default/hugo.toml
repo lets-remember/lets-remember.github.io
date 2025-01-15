@@ -1,0 +1,8 @@
+# baseURL = "https://lets-remember.github.io/"
+languageCode = "en-us"
+title = "Let's Remember"
+defaultContentLanguage = "en"
+
+
+[permalinks]
+posts = "/:year/:month/:title/"

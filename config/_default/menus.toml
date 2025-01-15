@@ -1,0 +1,34 @@
+
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "/about/"
+weight = 2
+
+[[main]]
+name = "Tags"
+url = "/tags/"
+weight = 4
+
+[[main]]
+name = "RSS"
+url = "/index.xml"
+
+[[footer]]
+name = "Github"
+url = "https://github.com/example"
+weight = 1
+
+[[footer]]
+name = "Mastodon"
+url = "https://example.com/@user"
+weight = 2
+
+[[footer]]
+name = "Imprint"
+url = "/imprint"
+weight = 3

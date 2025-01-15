@@ -1,0 +1,18 @@
+description = "A website built through Hugo and blogdown."
+footer = "Markdown Footer. Edit this and it is markdown. in the config.toml"
+subtitle = "Your blog subtitle goes here!"
+dateFmt = "02.01.2006 15:04"
+
+
+# Social icons
+[[social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/user/"
+
+[[social]]
+name = "medium"
+url = "https://medium.com/@user"
+
+[[social]]
+name = "github"
+url = "https://github.com/user"

@@ -1,0 +1,7 @@
+[[imports]]
+# path = "github.com/yihui/hugo-xmin"
+# path = 'github.com/spf13/hyde'
+# path = 'github.com/hanwenguo/hugo-theme-nostyleplease'
+path = 'github.com/colorchestra/smol'
+# path = "github.com/panr/hugo-theme-terminal"
+# path = "github.com/athul/archie"
